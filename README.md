@@ -30,7 +30,7 @@ Alternatively, download it as a ZIP file and extract it.
 
 ---
 
-### 2. **Update Your Information**  
+### 2. **Update Your Information**  \\\\
 Make the following changes:
 - Replace placeholder information (e.g., `Your Name`, `Project Title`) with your details.
 - Add your project code and any required files in the respective folders.
